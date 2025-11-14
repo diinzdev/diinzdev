@@ -1,4 +1,5 @@
-# Hi, my name is DinzDev and I'm a junior developer.
+# Hi, my name is DinzDev 
+## I'm a junior developer.
 
 <!--
 **diinzdev/diinzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
