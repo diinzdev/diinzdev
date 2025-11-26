@@ -1,5 +1,5 @@
 
-# Ola, Meu nome e DinzDev
+# Ola, Meu nome e DinzDev.
 ### Eu sou um densevolvedor Junior. 
 
 <!--
